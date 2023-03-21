@@ -1,0 +1,4 @@
+Nombre de coeurs physiques : 4
+Nombre de coeurs logiques : 8
+Quantité de L2 : 4 instances de 1 MiB 
+Quantité de L3 : 1 instance de 8 MiB 
